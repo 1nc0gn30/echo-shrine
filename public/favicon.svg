@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-labelledby="title">
+  <title>Echo Shrine icon</title>
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#00E5FF"/>
+      <stop offset="1" stop-color="#FF8B36"/>
+    </linearGradient>
+  </defs>
+  <rect width="128" height="128" rx="28" fill="#060912"/>
+  <path d="M28 34h72v12H45v12h44v12H45v12h55v12H28z" fill="url(#g)"/>
+</svg>
